@@ -8,7 +8,7 @@ Assume you have these tables:
 - **Categories**(`category_id`, `category_name`)
 
 
-## Q1. Write a query to get customer names and their order dates from last 30 days
+### Q1. Write a query to get customer names and their order dates from last 30 days
 ## Q2. Query product_name and total revenue (quantity * price) grouped by product
 ## Q3. Return product_name and total quantity sold, sorted descending, limit 3
 ## Q4. Return customer name and order count
